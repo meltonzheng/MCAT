@@ -14,3 +14,6 @@ Took Full Length test by Blueprint - 505, 68th percentile (7-5-2021)
  ---
 Test
  ---
+Took slightly shorter test by Magoosh - 508 (7-26-2021)
+![MagooshTest1](./Magoosh/ShortenedPracticeExam.png)
+---
